@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "purchase-order-service"
+  x-cortex-tag: "purchase-order-service"
+  x-cortex-description: "PO creation, transmission, and acknowledgment"
+  x-cortex-owners:
+    - type: group
+      name: "Supplier & Pricing Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001404"
+    apm_name: "Supplier Integration Platform"
+    cost_center: "CC-4420"
